@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIS_API_Application", "BIS4.1_API_Application\BIS_API_Application.csproj", "{2BCFCE1F-023D-4C3B-B77D-D216C968F60C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BCFCE1F-023D-4C3B-B77D-D216C968F60C}.Debug|x86.ActiveCfg = Debug|x86
+		{2BCFCE1F-023D-4C3B-B77D-D216C968F60C}.Debug|x86.Build.0 = Debug|x86
+		{2BCFCE1F-023D-4C3B-B77D-D216C968F60C}.Release|x86.ActiveCfg = Debug|x86
+		{2BCFCE1F-023D-4C3B-B77D-D216C968F60C}.Release|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
